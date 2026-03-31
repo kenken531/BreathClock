@@ -47,7 +47,7 @@ pip install numpy matplotlib pyaudio scipy
 ```
 pip install -r requirements.txt
 ```
-after downloading requirements.txt)
+after downloading `requirements.txt`)
 
 ## Usage
 
